@@ -73,4 +73,4 @@ Cada processo possui:
 ### 1️⃣ Execute o arquivo Python
 
 ```bash
-python nome_do_arquivo.py
+python Sistema Operacinal.py
